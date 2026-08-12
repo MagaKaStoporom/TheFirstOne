@@ -97,7 +97,7 @@ This is project by license MIT. More Information in the file 'LICENSE'.
 ## 🙏 БЛАГОДАРНОСТИ / YOU TOO
 
 Спасибо всем, кто поддерживает проект!
-Thank you all, that supports my prroject!
+Thank you all, that supports my project!
 
 ---
 
