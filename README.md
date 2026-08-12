@@ -54,7 +54,7 @@
 
 ---
 
-## 📸 СКРИНШОТЫ / SCREEENSHOTS
+## 📸 СКРИНШОТЫ / SCREENSHOTS
 
 <p align="center">
   <img src="[ссылка на скриншот 1]" alt="Скриншот 1" width="30%">
@@ -64,7 +64,7 @@
 
 ---
 
-## 🛠️ ТЕХНОЛОГИИ / TECHONOLOGY
+## 🛠️ ТЕХНОЛОГИИ / TECHNOLOGY
 
 *   **Движок:** Unreal Engine 5
 *   **Язык:** Blueprints / C++
@@ -102,3 +102,4 @@ Thank you all, that supports my prroject!
 ---
 
 ⭐ **Поставь звезду репозиторию, если ждёшь TFO!** ⭐
+Give me the start it repository, if you wait a game TFO
