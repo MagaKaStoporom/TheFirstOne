@@ -84,6 +84,8 @@
 
 Нашёл баг? Создай Issue в этом репозитории.
 
+Found bug? Create issue for it repository 
+
 ---
 
 ## 📜 ЛИЦЕНЗИЯ
