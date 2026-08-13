@@ -57,7 +57,7 @@
 ## 📸 СКРИНШОТЫ / SCREENSHOTS
 
 <p align="center">
-  <img src="screenshots2.png" alt="Скриншот 1" width="30%">
+  <img src="screenschots2.png" alt="Скриншот 1" width="30%">
   <img src="screenshots3.png" alt="Скриншот 2" width="30%">
   <img src="screenshots4.png" alt="Скриншот 3" width="30%">
 </p>
