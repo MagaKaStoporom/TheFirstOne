@@ -57,9 +57,9 @@
 ## 📸 СКРИНШОТЫ / SCREENSHOTS
 
 <p align="center">
-  <img src="[ссылка на скриншот 1]" alt="Скриншот 1" width="30%">
-  <img src="[ссылка на скриншот 2]" alt="Скриншот 2" width="30%">
-  <img src="[ссылка на скриншот 3]" alt="Скриншот 3" width="30%">
+  <img src="screenshots2.png" alt="Скриншот 1" width="30%">
+  <img src="screenshots3.png" alt="Скриншот 2" width="30%">
+  <img src="screenshots4.png" alt="Скриншот 3" width="30%">
 </p>
 
 ---
