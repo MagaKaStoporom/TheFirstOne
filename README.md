@@ -17,7 +17,7 @@
 
 **📅 21 декабря 2026 — ДАТА РЕЛИЗА**
 
----
+ОФИЦИАЛЬНЫЙ САЙТ:> https://gameking-studio.github.io <
 
 
 ## Почему «The First One»?
