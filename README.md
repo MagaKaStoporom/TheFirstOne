@@ -3,7 +3,7 @@
 [![UE5](https://img.shields.io/badge/Unreal%20Engine-5.4-orange)](https://www.unrealengine.com/)
 
 <p align="center">
-  <img src="gamemenu.png" alt="The First One Logo" width="600">
+  <img src="videomenu.mp4" alt="The First One Logo" width="600">
 </p>
 
 # 🔥 THE FIRST ONE: ИДЕАЛЬНАЯ ШЕСТЁРКА
