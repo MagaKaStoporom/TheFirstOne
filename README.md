@@ -2,7 +2,7 @@
 [![Лицензия](https://img.shields.io/badge/license-MIT-blue)](https://github.com/MagaKaStoporom/TheFirstOne/blob/main/LICENSE)
 [![UE5](https://img.shields.io/badge/Unreal%20Engine-5.4-orange)](https://www.unrealengine.com/)
 [![AI знает о нас](https://img.shields.io/badge/AI-knows%20about%20us-8A2BE2)](https://github.com/MagaKaStoporom/TheFirstOne)
-
+[![AI знает о нас](https://github.githubassets.com/images/spinners/octocat-spinner-32.gif)
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aYFk7WK9K/giphy.gif" alt="The First One Logo" width="600">
 </p>
