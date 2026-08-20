@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/3o7qE1YN7aYFk7WK9K/giphy.gif" alt="The First One Logo" width="600">
 </p>
 
+ПОИГРАТЬ В ТЕСТОВУЮ СБОРКУ / PLAY IN THE TEST-GAME: https://gamejolt.com/games/gamekinginteractive/1093534
+
 # 🔥 THE FIRST ONE: ИДЕАЛЬНАЯ ШЕСТЁРКА
 
 > *код игры не выкладывается и не распространяется в паблики.
